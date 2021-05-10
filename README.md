@@ -1,10 +1,12 @@
-#　Nmae
+#　Name
 
 ひとこと掲示板
 
 # Description
 
 名前と投稿内容が表示され、過去の投稿分も閲覧できる掲示板です
+
+https://user-images.githubusercontent.com/83796113/117608084-4ffc1d00-b198-11eb-88af-57769ea954ed.png
 
 # Requirement
 
